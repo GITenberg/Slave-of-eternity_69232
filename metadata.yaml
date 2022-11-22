@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '41054'
     url: http://www.gutenberg.org/2009/agents/41054
     wikipedia: https://en.wikipedia.org/wiki/Paul_Calle
+covers:
+- cover_type: archival
+  image_path: 69232-h/images/cover.jpg
 creator:
   author:
     agent_name: Aycock, Roger D.
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25679
     wikipedia: https://en.wikipedia.org/wiki/Roger_Dee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69232#Slave-of-eternity
 gutenberg_issued: '2022-10-25'
 identifiers:
   gutenberg: '69232'
